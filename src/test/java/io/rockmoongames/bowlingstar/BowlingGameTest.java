@@ -1,4 +1,5 @@
 package io.rockmoongames.bowlingstar;
 
-public class BowlingGameTest {
+public class BowlingGameTest
+{
 }
